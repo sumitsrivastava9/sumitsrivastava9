@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
-<h3 align="center">A passionate learner and a freelancer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</h3>
+<h3 align="center">A passionate learner and a Software developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</h3>
 
 - 🔭 I’m currently working on [Techzoid(A Blog application)](#)
 
